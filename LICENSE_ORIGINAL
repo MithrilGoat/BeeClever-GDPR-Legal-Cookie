@@ -1,0 +1,7 @@
+
+`Original` folder contains the reference code the app injects / 
+loads into the theme, which is obviously proprietary garbage. 
+
+Some files do, some files don't have license info, the ones 
+that do have the typical 'All rights reserved' + 'As is' 
+combination, check them yourself to make sure.
